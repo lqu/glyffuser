@@ -1,6 +1,15 @@
+# python3.10
+numpy<2
+ipykernel
+ipywidgets
+matplotlib
+t5
+sentencepiece
+
 accelerate==0.29.3
 datasets==2.19.0
-diffusers==0.28.0.dev0
+diffusers
+# diffusers==0.32.2
 einops==0.8.0
 Pillow==10.3.0
 torch==2.1.2
