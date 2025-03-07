@@ -16,3 +16,11 @@ torch==2.1.2
 torchvision==0.16.2
 tqdm==4.66.2
 transformers==4.40.1
+
+# below, if a different env combination is needed
+#-f https://download.pytorch.org/whl/torch/
+# torch==2.1.2+cu118
+
+
+# -f https://download.pytorch.org/whl/torchvision/
+# torchvision==0.16.2+cu118
